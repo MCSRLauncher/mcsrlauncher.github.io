@@ -1,6 +1,7 @@
-name: Deploy VitePress site
+name: Deploy VitePress Site
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
