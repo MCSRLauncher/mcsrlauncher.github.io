@@ -1,0 +1,4 @@
+---
+layout: false
+---
+<head><meta http-equiv="refresh" content="0;URL='https://patreon.com/MCSRLauncher'" /></head>

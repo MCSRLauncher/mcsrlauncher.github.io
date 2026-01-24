@@ -1,0 +1,4 @@
+---
+layout: false
+---
+<head><meta http-equiv="refresh" content="0;URL='https://discord.gg/HBC2bd2mjZ'" /></head>
