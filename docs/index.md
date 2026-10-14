@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: MCSR Launcher
-  text: The Minecraft Launcher for Minecraft Speedrunning
-  tagline: Make easier to setup Minecraft speedrunning instance!
+  text: The Launcher for Minecraft Speedrunning
+  tagline: Making it easier to setup a Minecraft instance for speedrunning!
   image: /icon.png
   actions:
     - theme: brand
@@ -15,7 +15,7 @@ hero:
       text: Source on GitHub
       link: https://github.com/MCSRLauncher/Launcher
     - theme: alt
-      text: Document
-      link: /document
+      text: Documentation
+      link: /documentation
 ---
 

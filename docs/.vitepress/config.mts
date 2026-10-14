@@ -13,15 +13,15 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Download', link: '/download' },
-      { text: 'Document', link: '/document' }
+      { text: 'Documentation', link: '/documentation' }
     ],
 
     sidebar: {
-      '/document': [
+      '/documentation': [
         { 
-          text: 'Document',
+          text: 'Documentation',
           link: '/',
-          base: '/document'
+          base: '/documentation'
         }
       ]
     },
@@ -29,7 +29,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/MCSRLauncher/Launcher', ariaLabel: 'GitHub Repository' },
       { icon: 'discord', link: 'https://mcsrlauncher.github.io/discord', ariaLabel: 'Discord' },
-      { icon: 'patreon', link: 'https://mcsrlauncher.github.io/patreon', ariaLabel: 'Discord' },
+      { icon: 'patreon', link: 'https://mcsrlauncher.github.io/patreon', ariaLabel: 'Patreon' },
     ],
 
     search: {

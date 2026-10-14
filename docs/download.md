@@ -22,4 +22,4 @@ features:
     rel: external
 ---
 
-If you have any issue with installation, please join our [Discord server](https://mcsrlauncher.github.io/discord)!
+If you have any issues with installation, please join our [Discord server](https://mcsrlauncher.github.io/discord)!
